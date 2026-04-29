@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "Parsa-vercel-xhttp-relay",
+  "name": "0982243",
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],
