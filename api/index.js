@@ -1,3 +1,11 @@
+// این یک کامنت تک‌خطیه
+
+/*
+این
+چند خط
+کامنت است
+*/
+
 export const config = { runtime: "edge" };
 
 const TARGET_BASE = (process.env.TARGET_DOMAIN || "").replace(/\/$/, "");
@@ -60,3 +68,10 @@ export default async function handler(req) {
     return new Response("Bad Gateway: Tunnel Failed", { status: 502 });
   }
 }
+// این یک کامنت تک‌خطیه
+
+/*
+این
+چند خط
+کامنت است
+*/
