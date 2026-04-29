@@ -1,9 +1,7 @@
-// این یک کامنت تک‌خطیه
+// gggg تک‌خطیه
 
 /*
-این
-چند خط
-کامنت است
+sgggggggکامنت است
 */
 
 export const config = { runtime: "edge" };
@@ -68,10 +66,8 @@ export default async function handler(req) {
     return new Response("Bad Gateway: Tunnel Failed", { status: 502 });
   }
 }
-// این یک کامنت تک‌خطیه
+// sgsgنت تک‌خطیه
 
 /*
-این
-چند خط
-کامنت است
+sggsgsgکامنت است
 */
